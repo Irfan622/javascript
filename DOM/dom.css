@@ -1,0 +1,40 @@
+form {
+    background: linear-gradient(45deg, #8f026c, #ff00007d);
+    border-radius: 6px;
+    color: white;
+    width: max-content;
+    box-sizing: border-box;
+}
+
+th {
+    background-color: palegreen;
+}
+
+.container {
+    display: flex;
+    box-sizing: content-box;
+}
+
+table {
+    background-color: white;
+    width: max-content;
+}
+
+.bdr {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.secondFont {
+    font-family: cursive;
+    font-weight: 300;
+}
+
+button {
+    margin: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: #513063;
+}
